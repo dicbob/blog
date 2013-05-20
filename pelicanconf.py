@@ -28,7 +28,7 @@ DISPLAY_PAGES_ON_MENU = True
 
 SUMMARY_MAX_LENGTH = 135
 
-TYPOGRIFY = True
+#TYPOGRIFY = True
 RELATIVE_URLS = True
 
 # PDF_GENERATOR = False
@@ -90,5 +90,3 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
-
-
