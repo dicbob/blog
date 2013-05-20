@@ -1,4 +1,4 @@
-Title: I hate the word blogoshpere...
+Title: "I hate the word blogoshpere..."
 Category: Posts
 Date: 2013-5-19
 
