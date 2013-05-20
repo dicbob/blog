@@ -1,4 +1,4 @@
-Title: "I hate the world blog"
+Title: "I hate the word blog"
 Category: Posts
 Tags: blog
 Date: 2013-5-19 9:00
