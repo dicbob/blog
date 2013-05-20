@@ -71,9 +71,9 @@ PLUGINS=['pelican.plugins.gravatar','pelican.plugins.sitemap',]
 #'pelican.plugins.related_posts',]
 
 # Github
-GITHUB_URL = "https://github.com/djdicbob/"
-GITHUB_USER = "djdicbob"
-GITHUB_ACTIVITY_FEED = 'https://github.com/djdicbob.atom'
+GITHUB_URL = "https://github.com/dicbob/"
+GITHUB_USER = "dicbob"
+GITHUB_ACTIVITY_FEED = 'https://github.com/dicbob.atom'
 
 
 SITEMAP_SAVE_AS = 'sitemap.xml'
