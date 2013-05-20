@@ -1,6 +1,7 @@
 Title: "I hate the word blogoshpere..."
 Category: Posts
-Date: 2013-5-19
+Tags: blog
+Date: 2013-5-19 9:00
 
 I have finally decided to jump into the world of blogging. As long as no one says the word "Blogosphere", I will 
 do just fine.  I have always wanted to write and share with world my thoughts and work.  Maybe even a playlist or two.
