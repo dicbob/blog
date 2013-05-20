@@ -1,0 +1,11 @@
+{% if GITHUB_ACTIVITY_FEED %}
+   <div class="social">
+           <h2>Github Activity</h2>
+           <ul>
+
+           {% for entry in github_activity %}
+               <li><b>{{ entry[0] }}</b><br /> {{ entry[1] }}</li>
+           {% endfor %}
+           </ul>
+   </div><!-- /.github_activity -->
+{% endif %}

@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Michael Burns -- Admin -- @mburns
+
+# THANKS
+
+    azizmb/pelican-bootstrap-responsive-theme
+    Justin Gallardo
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Bootstrap, jQuery, Modernizr
+    Pelican, Python

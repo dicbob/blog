@@ -1,0 +1,41 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="{{ SITEURL }}/"><i class="icon-home"></i> {{ SITENAME }}</a>
+
+            <div class="nav-collapse collapse">
+                <p class="navbar-text pull-right">
+                    <a href="{{ SITEURL }}/archives.html"><i class="icon-folder-open-alt"></i> Archives</a>
+                    <a href="{{ SITEURL }}/tags.html"><i class="icon-tag"></i> Tags</a>
+                </p>
+                <ul class="nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories<b class="caret"></b></a>
+
+                        <ul class="dropdown-menu">
+                            {% for cat, null in categories %}
+                            <li {% if cat == category %}class="active"{% endif %}>
+                                <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+
+                    {% if MENUITEMS %}
+                    {% for title, link in MENUITEMS %}
+                    <li><a href="{{ link }}">{{ title }}</a></li>
+                    {% endfor %}
+                    {% endif %}
+
+                    {% if DISPLAY_PAGES_ON_MENU %}
+                    {% for page in PAGES %}
+                    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+                    {% endfor %}
+                    {% endif %}
+                </ul>
+                
+            </div>
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,35 @@
+<footer>
+    <div class="row-fluid">
+        {% if SOCIAL %}
+        <div class="span2 social offset2">
+            <h3>Socials</h3>
+            <ul>
+                {% for name, link in SOCIAL %}
+                <li><a href="{{ link }}">{{ name }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        {% if LINKS %}
+        <div class="span2">
+            <h3>Blogroll</h3>
+            <ul>
+                {% for name, link, relation in LINKS %}
+                <li><a href="{{ link }}">{{ name }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        <div class="span4">
+            <h3>About Me</h3>
+            <div id="{{ AUTHOR }}" class="vcard">
+                <p><a class="url fn" src="{{ SITEURL }}">{{ AUTHOR }}</a> is a <span class="category">Linux</span>, <span class="category">sysadmin</span> working in sunny <span class="locality">{{ AUTHOR_LOCALITY }}</span>, <span class="region">{{ AUTHOR_REGION }}</span>, <span class="country-name">{{ AUTHOR_COUNTRY }}</span></p>
+             </div>
+            <div id="copyright">
+                <p>&copy; {{ AUTHOR }} 2013</p>
+            </div>
+        </div>
+    </div>
+</footer>

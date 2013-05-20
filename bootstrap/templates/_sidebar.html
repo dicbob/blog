@@ -1,0 +1,38 @@
+<div class="span2 sidebar">
+
+    <div class="well">
+        <a href="http://dicbbo.bz"><img src="thedudeabides.png" /></a>
+    </div>
+
+    <div class="well sidebar-nav"> 
+        {% if LINKS %} 
+        <ul class="nav nav-list"> 
+            <li class="nav-header">Blogroll</li>
+            {% for name, link, relation in LINKS %} 
+            <li><a href="{{ link }}" rel="{{ relation }}">{{ name }}</a></li> 
+            {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if SOCIAL %}
+        <div class="social">
+            <ul class="nav nav-list">
+                <li class="nav-header">Elsewhere</li>
+                {% for name, link in SOCIAL %} 
+                <li><a href="{{ link }}">{{ name }}</a></li> 
+                {% endfor %} 
+            </ul> 
+        </div> 
+        {% endif %} 
+
+    </div>
+
+    {% if GITHUB_USER %} 
+    <div class="github"> 
+        <iframe src="http://githubbadge.appspot.com/badge/{{ GITHUB_USER }}" style="border: 0;height: 142px;width: 100%;overflow: hidden;" frameBorder=0></iframe> 
+    </div> 
+    {% endif %} 
+
+
+
+</div>
