@@ -20,4 +20,4 @@ Easy first blog post. Thanks for stopping by.
 
 [Pelican]: http://getpelican.com "Pelican"
 [mburns]: http://unemployable.me "Mike Burns"
-[Yoururls]: http://yourls.org "Yourls"
+[Yourls]: http://yourls.org "Yourls"
