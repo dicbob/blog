@@ -67,7 +67,7 @@ SOCIAL = (('@djdicbob', 'https://twitter.com/djdicbob'),
 
 # Plugins
 # PLUGINS_PATH = ""
-PLUGINS=['pelican.plugins.gravatar','pelican.plugins.sitemap',]
+#PLUGINS=['pelican.plugins.gravatar','pelican.plugins.sitemap',]
 #'pelican.plugins.related_posts',]
 
 # Github
@@ -90,4 +90,5 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
 
