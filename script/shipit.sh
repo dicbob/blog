@@ -4,12 +4,13 @@
 GITREPO='https://github.com/dicbob/blog.git'
 WEBROOT=/usr/share/nginx/www  #Webserver Root Dir
 #WEBROOT=/usr/share/nginx/www  #Webserver Root Dir
-PHP_CONFIG=$1  #Location of the private config.php
+PHP_CONFIG=/home/rbryce/config.php  #Location of the private config.php
 STATUS=0
 DATE=`date +%Y%b%d%s`
 #Make a temp dir for the git clone or FAIL
 TMPDIR=$(mktemp -d /tmp/shipit.XXXXX) || { echo "Failed to create temp file"; exit 1; }
 TMPFILE=$TMPDIR/log.out
+BLOGDIR=$TMPDIR/blog
 
 ##mail function
 sendmail() {
@@ -21,7 +22,8 @@ EMAILMESSAGE="$TMPFILE"
 }
 
 #Move to the temp dir, clone blog repo, and copy local private files
-cd $TMPDIR && git clone $GITREPO &>> $TMPFILE && cd blog && mkdir -p output && STATUS=1
+cd $TMPDIR
+/usr/bin/git clone $GITREPO &>> $TMPFILE && cd $BLOGDIR && STATUS=1
 
 #Im relying on the exit code of the Makefile html target,  anything other than exit 0 breaks the script.
 
