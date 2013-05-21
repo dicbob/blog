@@ -1,0 +1,5 @@
+#Ignore all files in this dir.  It should be blank
+#But it also help create the output file for me when I deploy
+
+#
+*.*
