@@ -3,10 +3,10 @@ Category: Blog
 Tags: Leadership Baseball 
 Date: 2013-5-21 9:57
 
-I came out of the shower today with a text from my boss saying "Semi-Urgent".  Oh?  What could this be, I ask myself with urgency?  Turns out I had chance to have lunch at Morton's in San Francisco. It gets better...This was a vendor luncheon, with Bruce Bochy. Manager of the World Champion San Francisco Giants.  The Giant's manager of the team's first and second championship wins.  Awesome.
+I came out of the shower today with a text from my boss saying "Semi-Urgent".  Oh?  What could this be, I ask myself with urgency?  Turns out I had chance to have lunch at Morton's in San Francisco. It gets better...This was a vendor luncheon, with [Bruce Bochy][]. Manager of the World Champion San Francisco [Giants][].  The Giant's manager of the team's first and second championship wins.  Awesome.
 
 </p>
-Myself being an avid baseball fan and lifelong St. Louis Cardinals die-hard. Its easy to be a Giants fan too.  I saw Barry Bonds smash some long home runs in old Busch Stadium, and was happy that it was SF where the great Willie McGee left the Birds for. Not to mention the playoff battles the Cards and Giants have waged (1985 & 2012). When the Giants beat my beloved Red Birds out for a trip to the World Series last year, I cheered Giants all the way. Sure, it took me months to shake off Barry Zito's game 5 NLCS performance in StL.  If you don't remember.  Take my word for it, that is how pitching is done.
+Myself being an avid baseball fan and lifelong St. Louis [Cardinals][] die-hard. Its easy to be a Giants fan too.  I saw Barry Bonds smash some long home runs in old Busch Stadium, and was happy that it was SF where the great Willie McGee left the Birds for. Not to mention the playoff battles the Cards and Giants have waged (1985 & 2012). When the Giants beat my beloved Red Birds out for a trip to the World Series last year, I cheered Giants all the way. Sure, it took me months to shake off Barry Zito's game 5 NLCS performance in StL.  If you don't remember.  Take my word for it, that is how pitching is done.
 
 As you can tell I love baseball and for forty minutes today. I was in baseball heaven!  Sadly, not Busch Stadium in St. Louis, but face-to-face with Giants skipper Bruce Bochy.  Very nice fellow, as most ball players are.  He spoke to a group of 15 over lunch about managing a baseball team.  It seemed off the cuff, packed with great stories about his time in San Diego, his switch to the Giants, and winning the World Series.  I was surprised by two things.  His candor and humbleness.  Bruce's laugh while telling his stories, told me everything needed to know about the man.   
 
@@ -19,4 +19,9 @@ The other component to picking the right people is the "Humble Swagger".  Bruce 
 Bruce also spoke briefly about motivating men with $100 million dollar contracts. In baseball everyone has similar goals.  Everyone wants a World Series ring, and everyone wants to keep playing.  Every individual on the team is different too. So finding a common goal to unite under, can prove difficult. Bochy was quick to point out the Giants have an opportunity to win another World Series this year.  Three championship wins in 5 years is a dynasty in baseball.  Ensuring a baseball legacy for the team and its players.  That is the motivation the team rides on now. 
 
 Awesome day for this baseball fan.  It was great hearing first hand from the leader of a great team.  It was also easy to see why players and fans alike love Bruce Bochy.  Unfortunately, I didn't get a chance to ask him any questions.  I did however get my picture taken with the skipper.  Of course, on behalf of us at Mozilla, I gave him 2 Firefox OS T-Shirts. 
+
+
+[Bruce Bochy]: http://en.wikipedia.org/wiki/Bruce_Bochy
+[Cardinals]: http://stlouis.cardinals.mlb.com
+[Giants]: http://sanfrancisco.giants.mlb.com
 
