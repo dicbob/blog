@@ -1,10 +1,6 @@
-Title: Resume
-Date: 2013-05-19
+Title: 
+Date:
 Slug: resume
-
-Education
----------
------------------------
 
 
 Related Experience
