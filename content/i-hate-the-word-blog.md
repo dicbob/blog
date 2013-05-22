@@ -1,6 +1,6 @@
 Title: "I hate the word blog"
 Category: Posts
-Tags: blog
+Tags: Blog
 Date: 2013-5-19 9:00
 
 I have finally decided to jump into the world of blogging. As long as no one says the word "Blogosphere", I will
