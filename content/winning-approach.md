@@ -1,6 +1,6 @@
 Title: Winning Approach
 Category: Blog 
-Tags: Leadership Baseball 
+Tags: Leadership, Baseball 
 Date: 2013-5-21 9:57
 
 I came out of the shower today with a text from my boss saying "Semi-Urgent".  Oh?  What could this be, I ask myself with urgency?  Turns out I had chance to have lunch at Morton's in San Francisco. It gets better...This was a vendor luncheon, with [Bruce Bochy][]. Manager of the World Champion San Francisco [Giants][].  The Giant's manager of the team's first and second championship wins.  Awesome.
