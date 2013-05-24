@@ -39,11 +39,11 @@ THEME = "bootstrap"
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sitemap')
 THEME_STATIC_PATHS = (['static'])
 
-FILES_TO_COPY = (('webroot/gtdr.png','gtdr.png'),
-                 ('webroot/firefox00.png','firefox00'),
-                 ('webroot/deepspace.png','deepspace.png'),
-                 ('webroot/panda_racks.png','panda_racks.png'),
-                 ('webroot/beatleshdn1.png','beatleshdn1.png'),
+FILES_TO_COPY = (('webroot/gtdr.png','images/gtdr.png'),
+                 ('webroot/firefox00.png','images/firefox00.png'),
+                 ('webroot/deepspace.png','images/deepspace.png'),
+                 ('webroot/panda_racks.png','images/panda_racks.png'),
+                 ('webroot/beatleshdn1.png','images/beatleshdn1.png'),
                  ('webroot/robots.txt', 'robots.txt'),
                  ('webroot/humans.txt', 'humans.txt'),
                  ('webroot/favicon.ico', 'favicon.ico'),)
