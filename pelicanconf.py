@@ -39,7 +39,12 @@ THEME = "bootstrap"
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sitemap')
 THEME_STATIC_PATHS = (['static'])
 
-FILES_TO_COPY = (('webroot/robots.txt', 'robots.txt'),
+FILES_TO_COPY = (('webroot/gtdr.png','gtdr.png'),
+                 ('webroot/firefox00.png','firefox00'),
+                 ('webroot/deepspace.png','deepspace.png'),
+                 ('webroot/panda_racks.png','panda_racks.png'),
+                 ('webroot/beatleshdn1.png','beatleshdn1.png'),
+                 ('webroot/robots.txt', 'robots.txt'),
                  ('webroot/humans.txt', 'humans.txt'),
                  ('webroot/favicon.ico', 'favicon.ico'),)
 
@@ -50,10 +55,9 @@ MARKUP = (('md', 'markdown'))
 MD_EXTENSIONS = (['codehilite','extra'])
 
 # Blogroll
-LINKS =  (('jirwin', 'http://jirwin.net', 'friend met'),
-          ('Mike Burns', 'http://unemployeable.me/', 'friend met'),
+LINKS =  (('Mike Burns', 'http://unemployeable.me/', 'friend met'),
           ('bkero', 'http://bke.ro/', 'friend co-worker met'),
-          ('Mozilla', 'http://mozilla.org', ''),)
+          ('MozillaIT', 'http://blog.mozilla.org/it/', ''),)
 
 # Social widget
 # FACEBOOK_APPID
